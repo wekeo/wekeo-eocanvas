@@ -1,0 +1,51 @@
+# Component information
+name: wekeo-eocanvas
+description: Compendium of training content associated to the eocanvas WEkEO service for processing data on the cloud.
+copyright: 2025 European Union
+license_spdx: MIT
+date: 10-10-2025
+home_url: https://gitlab.eumetsat.int/eumetlab/wekeo-tools/wekeo-eocanvas
+
+# Package IPR documentation
+license_text_file: LICENSE.txt
+
+# File(s) associated to this component
+
+about_resource: ./01_Introduction_to_EOCanvas.ipynb
+about_resource: ./02_Introduction_to_EOCanvas_API.ipynb
+about_resource: ./03_EOCanvas_DataTailor.ipynb
+about_resource: ./04_EOCanvas_Using_S3_buckets.ipynb
+about_resource: ./05_EOCanvas_EODATA.ipynb
+about_resource: ./AUTHORS.txt
+about_resource: ./EOCanvasWorkflow_Create_an_OLCI_DataCube.ipynb
+about_resource: ./EOCanvasWorkflow_Extract_Pixel_Values.ipynb
+about_resource: ./LICENSE.txt
+about_resource: ./README.md
+about_resource: ./environment.yml
+about_resource: ./img/01_Introduction_SNAP_Graph_Subset.png
+about_resource: ./img/01_Introduction_SNAP_xmlGraph_Subset.png
+about_resource: ./img/01_Introduction_Subset_S3.png
+about_resource: ./img/04_datacube_aoi.png
+about_resource: ./img/datacube_xcube_output.png
+about_resource: ./img/thumbs/01_introduction.png
+about_resource: ./img/thumbs/02_eocanvas_api.png
+about_resource: ./img/thumbs/03_eocanvas_datatailor.png
+about_resource: ./img/thumbs/04_s3.png
+about_resource: ./img/thumbs/05_eodata.png
+about_resource: ./img/thumbs/casestudy_iceberg.png
+about_resource: ./img/thumbs/workflow_datacube.png
+about_resource: ./img/thumbs/workflow_pixel_extraction.png
+about_resource: ./img/wekeo_logo2.png
+about_resource: ./input_graphs/extractpix.xml
+about_resource: ./input_graphs/extractpix_baltic.xml
+about_resource: ./input_graphs/extractpix_florida.xml
+about_resource: ./input_graphs/olci_datacube.yaml
+about_resource: ./input_graphs/olci_resample.yaml
+about_resource: ./input_graphs/subset_olci.xml
+
+# Notes:
+
+The images contained in the ./img/thumbs folder are generated using the 
+matplotlib tool. The matplotlib tool does not extend its license/copyright to 
+figures produced by the package. The figures are covered by the package IPR
+documentation as specified in the license text file.

@@ -45,15 +45,15 @@ environment to include the dependencies listed.
 
 | Package   | Version | License      | Link                                                                 |
 |-----------|---------|--------------|----------------------------------------------------------------------|
-| python    | 3.10.1  | PSF-2.0      | [python.org](https://www.python.org/downloads/release/python-3100/)  |
+| python    | 3.10.18  | PSF-2.0      | [python.org](https://www.python.org/downloads/release/python-3100/)  |
 | hda       | 2.34    | Apache-2.0   | [anaconda.org/conda-forge/hda](https://anaconda.org/conda-forge/hda) |
 | matplotlib       | 3.10.6    | PSF-2.0   | [anaconda.org/conda-forge/matplotlib](https://anaconda.org/conda-forge/matplotlib) |
-| ipykernel | 7.0.0a2 | BSD-3-Clause | [anaconda.org/conda-forge/ipykernel](https://anaconda.org/conda-forge/ipykernel) |
-| hdf5nc | 1.6.4 | BSD-3-Clause | [anaconda.org/conda-forge/h5netcdf/](https://anaconda.org/conda-forge/h5netcdf/) |
-| boto3 | 1.40.41 | Apache-2.0 | [anaconda.org/conda-forge/boto3](https://anaconda.org/conda-forge/boto3) |
-| botocore | 1.40.41 | Apache-2.0 | [anaconda.org/conda-forge/botocore](https://anaconda.org/conda-forge/botocore) |
+| ipykernel | 6.30.1 | BSD-3-Clause | [anaconda.org/conda-forge/ipykernel](https://anaconda.org/conda-forge/ipykernel) |
+| h5py | 3.14.0 | BSD-3-Clause | [anaconda.org/conda-forge/h5py](https://anaconda.org/conda-forge/h5py) |
+| boto3 | 1.40.18 | Apache-2.0 | [anaconda.org/conda-forge/boto3](https://anaconda.org/conda-forge/boto3) |
+| botocore | 1.40.18 | Apache-2.0 | [anaconda.org/conda-forge/botocore](https://anaconda.org/conda-forge/botocore) |
 | cartopy | 0.25.0 | BSD-3-Clause | [anaconda.org/conda-forge/cartopy](https://anaconda.org/conda-forge/cartopy) |
+| geopandas | 1.1.1 | BSD-3-Clause | [anaconda.org/conda-forge/geopandas](https://anaconda.org/conda-forge/geopandas) |
 | eocanvas | 0.2.7 | Apache-2.0 | [pypi.org/project/eocanvas/](https://pypi.org/project/eocanvas/) |
-| xarray | 2025.9.0 | Apache-2.0 | [anaconda.org/conda-forge/xarray](https://anaconda.org/conda-forge/xarray) |
-| xcube-core | 1.7.1 | MIT | [anaconda.org/conda-forge/xcube](https://anaconda.org/conda-forge/xcube) |
-| zarr | 2.18.3 | MIT | [anaconda.org/conda-forge/zarr](https://anaconda.org/conda-forge/zarr) |
+| xarray | 2025.6.1 | Apache-2.0 | [anaconda.org/conda-forge/xarray](https://anaconda.org/conda-forge/xarray) |
+| xcube| 1.7.1 | MIT | [anaconda.org/conda-forge/xcube](https://anaconda.org/conda-forge/xcube) |
