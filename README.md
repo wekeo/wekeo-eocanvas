@@ -57,3 +57,4 @@ environment to include the dependencies listed.
 | eocanvas | 0.2.7 | Apache-2.0 | [pypi.org/project/eocanvas/](https://pypi.org/project/eocanvas/) |
 | xarray | 2025.6.1 | Apache-2.0 | [anaconda.org/conda-forge/xarray](https://anaconda.org/conda-forge/xarray) |
 | xcube| 1.7.1 | MIT | [anaconda.org/conda-forge/xcube](https://anaconda.org/conda-forge/xcube) |
+| pip  | 20.0.2  | MIT    | [anaconda.org/conda-forge/pip](https://anaconda.org/channels/conda-forge/packages/pip/overview)  |
