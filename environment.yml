@@ -16,4 +16,4 @@ dependencies:
   - xcube=1.7.1
   - pip
   - pip:
-      - eocanvas==0.2.7
+      - eocanvas==2.0.1
